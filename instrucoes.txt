@@ -1,0 +1,15 @@
+Instruções de uso do programa
+
+PREPARAÇÃO:
+    -Primeiramente, para garantir que o programa não possui lixo:
+        escreva no terminal: make clean
+
+    -Após limpar a pasta com "make clean", crie os arquivos ".class":
+        escreva no terminal: make
+
+RODANDO O PROGRAMA:
+    -Para rodar o programa:
+        escreva no terminal: make run
+    
+RESULTADO:
+    - Após rodar o programa, a listagem dos eventos estará no arquivo "lista_eventos.txt".
